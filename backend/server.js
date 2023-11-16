@@ -14,31 +14,31 @@ const projects = [
     id: 1,
     title: 'Project 1',
     description: 'VidStreaming app - underDevelopment  || Used : E(express)R(react)N(node) techs',
-    imageUrl: '/pr1.png',
+    imageUrl: '/public/pr1.png',
   },
   {
     id: 2,
     title: 'Project 2',
     description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi ipsa rerum amet necessitatibus quis ad nihil veniam blanditiis voluptate dignissimos.',
-    imageUrl: '/pr1.png',
+    imageUrl: '/public/pr1.png',
   },
   {
     id: 3,
     title: 'Project 3',
     description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi ipsa rerum amet necessitatibus quis ad nihil veniam blanditiis voluptate dignissimos.',
-    imageUrl: '/pr1.png',
+    imageUrl: '/public/pr1.png',
   },
   {
     id: 4,
     title: 'Project 4',
     description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi ipsa rerum amet necessitatibus quis ad nihil veniam blanditiis voluptate dignissimos.',
-    imageUrl: '/pr1.png',
+    imageUrl: '/public/pr1.png',
   },
   {
     id: 5,
     title: 'Project 5',
     description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi ipsa rerum amet necessitatibus quis ad nihil veniam blanditiis voluptate dignissimos.',
-    imageUrl: '/pr1.png',
+    imageUrl: '/public/pr1.png',
   },
   // Add more projects as needed
 ];
