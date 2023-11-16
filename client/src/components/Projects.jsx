@@ -22,7 +22,7 @@ const Projects = () => {
     const delay = 1500;
     const timerId = setTimeout(() => {
       // Fetch project data from the backend API endpoint
-      fetch(`${import.meta.env.VITE_API_URL}/api/projects`)
+      fetch(`https://ss1-osbq.onrender.com/api/projects`)
         .then((response) => response.json())
         .then((data) => {
           setProjects(data);
