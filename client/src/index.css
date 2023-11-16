@@ -1,0 +1,20 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color:#14131A;
+  font-family: 'Quicksand', sans-serif;
+}
+
+/* Add this CSS to your styles */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 0.2em;
+  
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #555;
+  outline: 1px solid #555;
+}
