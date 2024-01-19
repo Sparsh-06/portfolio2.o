@@ -12,7 +12,7 @@ const Cover = () => {
                 <div className=''>
                 <h1 className='text-xl font-bold'>Sparsh Sharma</h1>  
                 <p>Software Developer</p>
-                <a href='https://study.iitm.ac.in/ds/index.html' target='_blank' className='font-bold text-md text-red-300 hover:text-red-400 duration-300'>Studying in Indian Insitute of Technology, Madras</a>
+                <a href='https://study.iitm.ac.in/ds/index.html' target='_blank' className='font-bold text-md text-red-300 hover:text-red-400 duration-300'>Persuing Bachelors of Science from Indian Insitute of Technology, Madras</a>
                 <div className='my-2'>
                   <a href="https://app.onlinedegree.iitm.ac.in/student/23F3003530" target='_blank'><button className='bg-red-400 py-1 px-2 rounded-md hover:bg-red-500 duration-300'>Go to my profile</button></a>
                 </div>
