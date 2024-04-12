@@ -20,7 +20,7 @@ const projects = [
     id: 2,
     title: 'Project 2',
     description: "Tried to transform Indian Space Research Organisation's website using some 3d elements",
-    imageUrl: '/public/pr1.png',
+    imageUrl: '/image.png',
   },
   {
     id: 3,
