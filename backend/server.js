@@ -19,7 +19,7 @@ const projects = [
   {
     id: 2,
     title: 'Project 2',
-    description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi ipsa rerum amet necessitatibus quis ad nihil veniam blanditiis voluptate dignissimos.',
+    description: "Tried to transform Indian Space Research Organisation's website using some 3d elements",
     imageUrl: '/public/pr1.png',
   },
   {
